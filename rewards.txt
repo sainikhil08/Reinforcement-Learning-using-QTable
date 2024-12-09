@@ -1,0 +1,10 @@
+Reward for episode 1 : 497.23822035500336
+Reward for episode 2 : 499.06654751906433
+Reward for episode 3 : 498.94710906197827
+Reward for episode 4 : 499.1538087855
+Reward for episode 5 : 498.8012722311262
+Reward for episode 6 : 498.9797206063872
+Reward for episode 7 : 499.03122471592144
+Reward for episode 8 : 499.25085085208997
+Reward for episode 9 : 499.00189610634106
+Reward for episode 10 : 499.14866224550684
